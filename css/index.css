@@ -1,0 +1,28 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  margin: 0;
+}
+
+#sweetest {
+  margin-bottom: 0.25rem;
+  text-align: center;
+  padding: 0.5rem 0;
+  background-color: hsl(1, 100%, 49%);
+  color: hsl(0, 0%, 100%);
+}
+
+#logo img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  max-width: 18.4375rem;
+}
